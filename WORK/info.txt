@@ -1,0 +1,8 @@
+Project structure:
+-WoRK
+   |-info.txt
+   |-readme.txt
+   |-index.html
+-TEMP
+   |-busser.js
+   |-game.js
