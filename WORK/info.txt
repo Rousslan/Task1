@@ -8,3 +8,5 @@ Project structure:
    |-game.js
 
 Project version: 1.0 (this info is tracked added by the second branch)
+
+Here is a change for the last branch (branch fifth)
