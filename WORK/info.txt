@@ -6,3 +6,5 @@ Project structure:
 -TEMP
    |-busser.js
    |-game.js
+
+Project version: 1.0 (this info is tracked added by the second branch)
